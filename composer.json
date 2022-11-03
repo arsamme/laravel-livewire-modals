@@ -1,12 +1,12 @@
 {
-    "name": "bastinald/laravel-livewire-modals",
-    "homepage": "https://github.com/bastinald/laravel-livewire-modals",
+    "name": "arsamme/laravel-livewire-modals",
+    "homepage": "https://github.com/arsamme/laravel-livewire-modals",
     "description": "Dynamic Laravel Livewire Bootstrap modals.",
     "license": "MIT",
     "authors": [
         {
-            "name": "Kevin Dion",
-            "email": "bastinald@icloud.com",
+            "name": "Ali Raghebi",
+            "email": "aliraghebiii@gmail.com",
             "role": "Developer"
         }
     ],
@@ -16,13 +16,13 @@
     },
     "autoload": {
         "psr-4": {
-            "Bastinald\\LaravelLivewireModals\\": "src"
+            "Arsamme\\LaravelLivewireModals\\": "src"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Bastinald\\LaravelLivewireModals\\Providers\\LaravelLivewireModalsProvider"
+                "Arsamme\\LaravelLivewireModals\\Providers\\LaravelLivewireModalsProvider"
             ]
         }
     }
